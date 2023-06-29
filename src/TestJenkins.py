@@ -9,3 +9,4 @@ average = total / len(numbers)
 
 # Print the average
 print("The average is:", average)
+print("The average is1:", average)
